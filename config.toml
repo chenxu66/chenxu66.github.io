@@ -16,16 +16,16 @@ enableInlineShortcodes = true
     [[Params.Social]]
         name = "Instagram"
         link = "https://www.instagram.com/chenxu.1/"
-        icon = "fa-brands fa-instagram"
+        icon = "fab fa-instagram"
     [[Params.Social]]
         name = "LinkedIn"
         link = "https://www.linkedin.com/in/theo-xuchen/"
-        icon = "fa-brands fa-linkedin-in"
+        icon = "fab fa-linkedin-in"
 
 [menu]
     [[menu.main]]
-        name = "Collection"
-        url = "/collection/"
+        name = "Garden"
+        url = "/garden/"
         weight = 1
     [[menu.main]]
         name = "Projects"
